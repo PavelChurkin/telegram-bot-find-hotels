@@ -1,0 +1,11 @@
+python-dotenv~=0.20.0
+requests~=2.27.1
+aiogram==2.20
+aiohttp==3.8.1
+
+loguru==0.6.0
+aiogram_calendar==0.1.1
+
+sqlalchemy==1.4.39
+aiosqlite==0.17.0
+mysql-connector-python==8.0.29
