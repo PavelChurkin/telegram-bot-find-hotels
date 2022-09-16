@@ -1,0 +1,210 @@
+{
+    "term": "берлин",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "8c1413c833274eeb9fc6df4ccbfa4c32",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "536",
+                    "destinationId": "332483",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.51384,
+                    "longitude": 13.35008,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Берлин"
+                },
+                {
+                    "geoId": "178779",
+                    "destinationId": "1662710",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.532910847866,
+                    "longitude": 13.366032749716949,
+                    "searchDetail": null,
+                    "caption": "Митте, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Митте"
+                },
+                {
+                    "geoId": "553248634739919232",
+                    "destinationId": "10979252",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.58186787173266,
+                    "longitude": 13.269920850815502,
+                    "searchDetail": null,
+                    "caption": "Тегель, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Тегель"
+                },
+                {
+                    "geoId": "3000034373",
+                    "destinationId": "10370402",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 53.216702,
+                    "longitude": 12.5833,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Берлин</span>хен, Виттшток/Доссе, Бранденбург  (регион), Германия",
+                    "name": "Берлинхен"
+                },
+                {
+                    "geoId": "553248633975963072",
+                    "destinationId": "10871331",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.5179057441571,
+                    "longitude": 13.281313461787299,
+                    "searchDetail": null,
+                    "caption": "Шарлоттенбург, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Шарлоттенбург"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "15525903",
+                    "destinationId": "497828896",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.511,
+                    "longitude": 13.43045,
+                    "searchDetail": null,
+                    "caption": "Moxy Berlin Ostbahnhof, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Moxy Berlin Ostbahnhof"
+                },
+                {
+                    "geoId": "13011",
+                    "destinationId": "134777",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.500209,
+                    "longitude": 13.338523,
+                    "searchDetail": null,
+                    "caption": "Scandic Berlin Kurfürstendamm, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Scandic Berlin Kurfürstendamm"
+                },
+                {
+                    "geoId": "5670",
+                    "destinationId": "130899",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.523364,
+                    "longitude": 13.413345,
+                    "searchDetail": null,
+                    "caption": "Park Inn by Radisson Berlin Alexanderplatz, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Park Inn by Radisson Berlin Alexanderplatz"
+                },
+                {
+                    "geoId": "4411",
+                    "destinationId": "109357",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.502965,
+                    "longitude": 13.327097,
+                    "searchDetail": null,
+                    "caption": "Hotel Bristol Berlin, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Hotel Bristol Berlin"
+                },
+                {
+                    "geoId": "71527",
+                    "destinationId": "133651",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.503448,
+                    "longitude": 13.329219,
+                    "searchDetail": null,
+                    "caption": "Hotel Zoo Berlin, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Hotel Zoo Berlin"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "508242",
+                    "destinationId": "37",
+                    "landmarkCityDestinationId": "332483",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.52179486376221,
+                    "longitude": 13.412784500523662,
+                    "searchDetail": null,
+                    "caption": "Александерплац, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Александерплац"
+                },
+                {
+                    "geoId": "553248635974717273",
+                    "destinationId": "11426342",
+                    "landmarkCityDestinationId": "402256",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.352851,
+                    "longitude": 13.470755,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Берлин</span>ский экспоцентр «Аэропорт», Шёнефельд, Бранденбург  (регион), Германия",
+                    "name": "Берлинский экспоцентр «Аэропорт»"
+                },
+                {
+                    "geoId": "6070419",
+                    "destinationId": "1659244",
+                    "landmarkCityDestinationId": "332483",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.507889,
+                    "longitude": 13.337724,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Берлин</span>ский зоопарк, Берлин, Германия",
+                    "name": "Берлинский зоопарк"
+                },
+                {
+                    "geoId": "6275075",
+                    "destinationId": "1774355",
+                    "landmarkCityDestinationId": "332483",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.50170664214879,
+                    "longitude": 13.321330888105717,
+                    "searchDetail": null,
+                    "caption": "Kurfürstendamm, <span class='highlighted'>Берлин</span>, Германия",
+                    "name": "Kurfürstendamm"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "6146063",
+                    "destinationId": "1713120",
+                    "landmarkCityDestinationId": null,
+                    "type": "TRAIN_STATION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 52.525072,
+                    "longitude": 13.369377,
+                    "searchDetail": null,
+                    "caption": "Центральный вокзал <span class='highlighted'>Берлин</span>а, Берлин, Германия",
+                    "name": "Центральный вокзал Берлина"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

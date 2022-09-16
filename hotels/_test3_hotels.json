@@ -1,0 +1,2536 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "header": "Центр города, Берлин, Германия",
+            "query": {
+                "destination": {
+                    "id": "332483",
+                    "value": "Берлин, Германия",
+                    "resolvedLocation": "CITY:332483:UNKNOWN:UNKNOWN"
+                }
+            },
+            "searchResults": {
+                "totalCount": 986,
+                "results": [
+                    {
+                        "id": 414464,
+                        "name": "SO/ Berlin Das Stue",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Drakestr. 1",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.6,
+                            "rating": "9,6",
+                            "total": 700,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "0,5 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,7 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "19,186 RUB",
+                                "exactCurrent": 19186.2
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Дипломатический квартал",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {
+                            "hotelBadge": {
+                                "type": "vipBasic",
+                                "label": "VIP"
+                            }
+                        },
+                        "pimmsAttributes": "DoubleStamps|priceRangeUK|TESCO",
+                        "coordinate": {
+                            "lat": 52.509923,
+                            "lon": 13.346329
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 5256909,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/6000000/5260000/5257000/5256909/e7efa0ea_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 377867,
+                        "name": "Pestana Berlin Tiergarten",
+                        "starRating": 4.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Stuelerstrasse 6",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 1974,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "0,6 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,5 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "8,040 RUB",
+                                "exactCurrent": 8039.94
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Дипломатический квартал",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {
+                            "hotelBadge": {
+                                "type": "vipBasic",
+                                "label": "VIP"
+                            }
+                        },
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 52.50859,
+                            "lon": 13.349449
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 4360170,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/5000000/4370000/4360200/4360170/b3ae5cc5_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 350853,
+                        "name": "Motel One Berlin Bellevue",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Paulstrasse 21",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10557",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 502,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "0,8 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "3,9 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "6,030 RUB",
+                                "exactCurrent": 6029.95
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Моабит",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 52.51983,
+                            "lon": 13.35552
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 2969757,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/3000000/2970000/2969800/2969757/8e01764d_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 106207,
+                        "name": "InterContinental Berlin, an IHG Hotel",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Budapester Str. 2",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.2,
+                            "rating": "9,2",
+                            "total": 1495,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "0,8 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,8 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "7,874 RUB",
+                                "exactCurrent": 7873.51
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тиргартен",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 52.506745,
+                            "lon": 13.345661
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 5619,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/10000/5700/5619/1808571e_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 313198,
+                        "name": "Hotel Lützow",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Keithstr. 38",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.8,
+                            "rating": "7,8",
+                            "total": 1017,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "0,9 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,7 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "5,116 RUB",
+                                "exactCurrent": 5116.32
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тиргартен",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 52.506003,
+                            "lon": 13.347623
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 2658591,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/3000000/2660000/2658600/2658591/4c7d53ff_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 186595,
+                        "name": "Pullman Berlin Schweizerhof",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Budapester Str. 25",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.4,
+                            "rating": "9,4",
+                            "total": 2683,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "0,9 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,9 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "7,856 RUB",
+                                "exactCurrent": 7856.04
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тиргартен",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 52.50631,
+                            "lon": 13.34451
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 555027,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/560000/555100/555027/db1a0388_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 109823,
+                        "name": "Sheraton Berlin Grand Hotel Esplanade",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Lützowufer 15",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10785",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 1797,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "0,9 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,3 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "9,685 RUB",
+                                "exactCurrent": 9685.05
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тиргартен",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {
+                            "hotelBadge": {
+                                "type": "vipBasic",
+                                "label": "VIP"
+                            }
+                        },
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 52.505762,
+                            "lon": 13.354253
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 563859,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/570000/563900/563859/88bccbc5_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 875702752,
+                        "name": "Heart of Berlin",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "locality": "Berlin",
+                            "region": "",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,0 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "3,8 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "13,265 RUB",
+                                "exactCurrent": 13264.5
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Моабит",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 52.52195,
+                            "lon": 13.3559
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 27334461,
+                        "vrBadge": "Квартира",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/28000000/27340000/27334500/27334461/ae7ce9cb_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 405368,
+                        "name": "Hotel Hansablick Berlin",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Flotowstr. 6",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10555",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 188,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,0 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,2 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "neighbourhood": "Ханзафиртель",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 52.517654,
+                            "lon": 13.336592
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 8199630,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/9000000/8200000/8199700/8199630/9d578621_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 224162,
+                        "name": "Novotel Berlin Am Tiergarten",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Strasse Des 17. Juni 106-108",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10623",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 2307,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,0 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,3 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "6,867 RUB",
+                                "exactCurrent": 6866.76
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Шарлоттенбург",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 52.513826,
+                            "lon": 13.335194
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1127043,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1130000/1127100/1127043/6826b8a5_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 353942,
+                        "name": "Ameron Boutique Hotel Villa Abion Berlin",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Kirchstraße 13",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10557",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.4,
+                            "rating": "9,4",
+                            "total": 148,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,0 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,5 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "9,558 RUB",
+                                "exactCurrent": 9558.18
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Моабит",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 52.522877,
+                            "lon": 13.346924
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 3769279,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/4000000/3770000/3769300/3769279/b73f8d1d_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1282762784,
+                        "name": "Hapimag Resort Berlin Zoo",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Burggrafenstraße 13",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "6312",
+                            "region": "",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,1 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,0 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "24,485 RUB",
+                                "exactCurrent": 24485.25
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тиргартен",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 52.50501,
+                            "lon": 13.34424
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 40055087,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/41000000/40060000/40055100/40055087/0c400535_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 116495,
+                        "name": "Ameron Hotel Abion Spreebogen Berlin",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Alt-Moabit 99",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10559",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 1034,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,1 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,5 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "7,019 RUB",
+                                "exactCurrent": 7019.23
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Моабит",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 52.523332,
+                            "lon": 13.346394
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 523511,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/530000/523600/523511/740f6059_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 163175,
+                        "name": "Hotel Berlin, Berlin",
+                        "starRating": 4.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Lützowplatz 17",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10785",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 1736,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,1 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,5 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "10,936 RUB",
+                                "exactCurrent": 10935.61
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тиргартен",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {
+                            "hotelBadge": {
+                                "type": "vipBasic",
+                                "label": "VIP"
+                            }
+                        },
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 52.50399,
+                            "lon": 13.35242
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 6596,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/10000/6600/6596/96884af8_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 226979,
+                        "name": "Hotel Berlin Central District",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Stauffenbergstr. 26",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10785",
+                            "region": "",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 1023,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,1 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "3,7 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "11,512 RUB",
+                                "exactCurrent": 11511.71
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Дипломатический квартал",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 52.50734,
+                            "lon": 13.36324
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1172384,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1180000/1172400/1172384/6fc046d1_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 172030,
+                        "name": "Hotel Sylter Hof Berlin",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Kurfürstenstraße 114-116",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8,4",
+                            "total": 1248,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,2 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "4,9 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "neighbourhood": "Тиргартен",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|increaseNumberOfReviewsRequired|TESCO",
+                        "coordinate": {
+                            "lat": 52.503628,
+                            "lon": 13.34737
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 44956,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/50000/45000/44956/e7dfcb21_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 580085,
+                        "name": "Limehome Berlin Werftstraße",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "locality": "Berlin",
+                            "region": "",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 16,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,2 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "3,6 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "neighbourhood": "Митте",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 52.522598,
+                            "lon": 13.359231
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 14816701,
+                        "vrBadge": "Квартира",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/15000000/14820000/14816800/14816701/6ffec58d_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 199660,
+                        "name": "Sorat Hotel Berlin",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Bayreuther Strasse 44",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.8,
+                            "rating": "7,8",
+                            "total": 1182,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,2 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,0 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "6,314 RUB",
+                                "exactCurrent": 6313.93,
+                                "old": "7,520 RUB"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Шёнеберг",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 52.503788,
+                            "lon": 13.344629
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 11684,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/20000/11700/11684/8d7cc0d4_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 200674,
+                        "name": "Air in Berlin Hotel",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Ansbacher Str. 6",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.6,
+                            "rating": "7,6",
+                            "total": 710,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,2 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,1 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,714 RUB",
+                                "exactCurrent": 4713.63,
+                                "old": "5,250 RUB"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Центр Западного Берлина",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 52.50413,
+                            "lon": 13.34281
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 53665,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/60000/53700/53665/332c5de3_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 336126,
+                        "name": "Central Inn am Hauptbahnhof",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Alt-Moabit 126",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10557",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.2,
+                            "rating": "6,2",
+                            "total": 434,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,2 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "3,7 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "5,969 RUB",
+                                "exactCurrent": 5969.43
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Митте",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "showFrequentlyAskedQuestionsenUS",
+                        "coordinate": {
+                            "lat": 52.523358,
+                            "lon": 13.358581
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 3124418,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/4000000/3130000/3124500/3124418/e8dc1d2e_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 126942,
+                        "name": "Hotel Palace Berlin",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Budapester Strasse 45",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "BE",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.2,
+                            "rating": "9,2",
+                            "total": 2374,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,2 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,3 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "8,750 RUB",
+                                "exactCurrent": 8749.88,
+                                "old": "13,461 RUB"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Центр Западного Берлина",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {
+                            "hotelBadge": {
+                                "type": "vipBasic",
+                                "label": "VIP"
+                            }
+                        },
+                        "pimmsAttributes": "DoubleStamps|D13|showFrequentlyAskedQuestionsenUS|TESCO",
+                        "coordinate": {
+                            "lat": 52.50523,
+                            "lon": 13.33903
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 18069,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/20000/18100/18069/6129a9a3_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1044809088,
+                        "name": "Ku'damm holiday&business apartment",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Ansbacher Str. 11",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10787",
+                            "region": "Berlin",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,2 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,1 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "neighbourhood": "Центр Западного Берлина",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 52.50363,
+                            "lon": 13.343176
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 32619034,
+                        "vrBadge": "Апартаменты",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/33000000/32620000/32619100/32619034/206f7933_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1021843744,
+                        "name": "Luxury Suites Kudamm by Jupiter",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "locality": "Berlin",
+                            "region": "Berlin",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,2 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,1 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "neighbourhood": "Центр Западного Берлина",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 52.503629,
+                            "lon": 13.343175
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 31901367,
+                        "vrBadge": "Кондоминиум",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 1140220224,
+                        "name": "KPM Hotel & Residences",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Englische Straße 6",
+                            "extendedAddress": "",
+                            "locality": "Berlin",
+                            "postalCode": "10587",
+                            "region": "",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.4,
+                            "rating": "9,4",
+                            "total": 61,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,2 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,5 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "10,934 RUB",
+                                "exactCurrent": 10934.45,
+                                "old": "11,511 RUB"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Шарлоттенбург",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 52.5153,
+                            "lon": 13.332
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 35600632,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/36000000/35610000/35600700/35600632/6993c7d6_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 579039,
+                        "name": "Lovely Flats Englische Straße",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "locality": "Berlin",
+                            "region": "Berlin",
+                            "countryName": "Germany",
+                            "countryCode": "de",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,3 км"
+                            },
+                            {
+                                "label": "Александерплац",
+                                "distance": "5,6 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "neighbourhood": "Шарлоттенбург",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 52.514904,
+                            "lon": 13.331483
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 14818599,
+                        "vrBadge": "Квартира",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/15000000/14820000/14818600/14818599/16a152ab_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    }
+                ],
+                "pagination": {
+                    "currentPage": 1,
+                    "pageGroup": "EXPEDIA_IN_POLYGON",
+                    "nextPageStartIndex": 25,
+                    "nextPageNumber": 2,
+                    "nextPageGroup": "EXPEDIA_IN_POLYGON"
+                }
+            },
+            "sortResults": {
+                "options": [
+                    {
+                        "label": "Звездность",
+                        "itemMeta": "star",
+                        "choices": [
+                            {
+                                "label": "Звезды (по убыванию)",
+                                "value": "STAR_RATING_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Звезды (по возрастанию)",
+                                "value": "STAR_RATING_LOWEST_FIRST",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Расстояние",
+                        "itemMeta": "distance",
+                        "selectedChoiceLabel": "Центр города",
+                        "choices": [
+                            {
+                                "label": "Центр города",
+                                "value": "DISTANCE_FROM_LANDMARK",
+                                "selected": true
+                            }
+                        ],
+                        "enhancedChoices": [
+                            {
+                                "label": "Что посмотреть",
+                                "itemMeta": "landmarks",
+                                "choices": [
+                                    {
+                                        "label": "Центр города",
+                                        "id": 332483.0
+                                    },
+                                    {
+                                        "label": "Kurfürstendamm",
+                                        "id": 1774355.0
+                                    },
+                                    {
+                                        "label": "Александерплац",
+                                        "id": 37.0
+                                    },
+                                    {
+                                        "label": "Берлинский зоопарк",
+                                        "id": 1659244.0
+                                    },
+                                    {
+                                        "label": "Бранденбургские ворота",
+                                        "id": 1638543.0
+                                    },
+                                    {
+                                        "label": "Вальдбюне",
+                                        "id": 1740364.0
+                                    },
+                                    {
+                                        "label": "Велодром",
+                                        "id": 1677839.0
+                                    },
+                                    {
+                                        "label": "Жандармский рынок",
+                                        "id": 1659267.0
+                                    },
+                                    {
+                                        "label": "Конгресс-центр Messe Berlin",
+                                        "id": 1726245.0
+                                    },
+                                    {
+                                        "label": "Контрольный пункт \"Чарли\"",
+                                        "id": 1763937.0
+                                    },
+                                    {
+                                        "label": "Конференц-центр Estrel",
+                                        "id": 1729125.0
+                                    },
+                                    {
+                                        "label": "Концертный зал Columbiahalle",
+                                        "id": 1713312.0
+                                    },
+                                    {
+                                        "label": "Концертный зал Темподром",
+                                        "id": 1713542.0
+                                    },
+                                    {
+                                        "label": "Музейный остров",
+                                        "id": 1677646.0
+                                    },
+                                    {
+                                        "label": "Олимпийский стадион",
+                                        "id": 1659129.0
+                                    },
+                                    {
+                                        "label": "Потсдамская площадь",
+                                        "id": 1644509.0
+                                    },
+                                    {
+                                        "label": "Стадион Mercedes-Benz Arena",
+                                        "id": 1677828.0
+                                    },
+                                    {
+                                        "label": "Фридрихштрассе",
+                                        "id": 1701330.0
+                                    },
+                                    {
+                                        "label": "Хакешер Маркт",
+                                        "id": 1713314.0
+                                    },
+                                    {
+                                        "label": "Шарите (клинический комплекс)",
+                                        "id": 1727310.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Вокзалы и станции",
+                                "itemMeta": "stations",
+                                "choices": [
+                                    {
+                                        "label": "Станция Alexanderplatz",
+                                        "id": 1702027.0
+                                    },
+                                    {
+                                        "label": "Станция Berlin Frankfurter Allee",
+                                        "id": 1701597.0
+                                    },
+                                    {
+                                        "label": "Станция Berlin Ost",
+                                        "id": 1705313.0
+                                    },
+                                    {
+                                        "label": "Станция Berlin-Friedrichstraße",
+                                        "id": 1705000.0
+                                    },
+                                    {
+                                        "label": "Станция Berlin-Spandau",
+                                        "id": 1704990.0
+                                    },
+                                    {
+                                        "label": "Станция Berlin-Zoologischer Garten",
+                                        "id": 1705287.0
+                                    },
+                                    {
+                                        "label": "Станция Landsberger Allee",
+                                        "id": 1702148.0
+                                    },
+                                    {
+                                        "label": "Станция Ostkreuz",
+                                        "id": 1702022.0
+                                    },
+                                    {
+                                        "label": "Станция S-Bahn Olympiastadion",
+                                        "id": 1702189.0
+                                    },
+                                    {
+                                        "label": "Станция S-Bahn Potsdamer Platz",
+                                        "id": 1701949.0
+                                    },
+                                    {
+                                        "label": "Станция S-Bahn Savignyplatz",
+                                        "id": 1702039.0
+                                    },
+                                    {
+                                        "label": "Станция S-Bahn Schönenfeld Flughafen",
+                                        "id": 1790604.0
+                                    },
+                                    {
+                                        "label": "Станция S-Bahn Sonnenallee",
+                                        "id": 1702155.0
+                                    },
+                                    {
+                                        "label": "Станция U-Bahn Heinrich-Heine-Straße",
+                                        "id": 1701717.0
+                                    },
+                                    {
+                                        "label": "Станция U-Bahn Kurfürstendamm",
+                                        "id": 1701511.0
+                                    },
+                                    {
+                                        "label": "Станция U-Bahn Mehringdamm",
+                                        "id": 1701633.0
+                                    },
+                                    {
+                                        "label": "Станция U-Bahn Potsdamer Platz",
+                                        "id": 1701561.0
+                                    },
+                                    {
+                                        "label": "Станция U-Bahn Rosenthaler Platz",
+                                        "id": 1701711.0
+                                    },
+                                    {
+                                        "label": "Станция U-Bahn Wittenbergplatz",
+                                        "id": 1701517.0
+                                    },
+                                    {
+                                        "label": "Центральный вокзал Берлина",
+                                        "id": 1713120.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Аэропорты",
+                                "itemMeta": "airports",
+                                "choices": [
+                                    {
+                                        "label": "Берлин-Бранденбург (BER)",
+                                        "id": 776634368.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Рейтинг гостей",
+                        "itemMeta": "rating",
+                        "choices": [
+                            {
+                                "label": "Рейтинг гостей",
+                                "value": "GUEST_RATING",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Цена",
+                        "itemMeta": "price",
+                        "choices": [
+                            {
+                                "label": "Цена (по убыванию)",
+                                "value": "PRICE_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Цена (по возрастанию)",
+                                "value": "PRICE",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    }
+                ],
+                "filterLandmarkId": 332483.0,
+                "distanceOptionLandmarkId": 332483.0
+            },
+            "filters": {
+                "applied": true,
+                "name": {
+                    "item": {
+                        "value": ""
+                    },
+                    "autosuggest": {
+                        "additionalUrlParams": {
+                            "resolved-location": "CITY:332483:UNKNOWN:UNKNOWN",
+                            "q-destination": "Берлин, Германия",
+                            "destination-id": "332483"
+                        }
+                    }
+                },
+                "starRating": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "value": 5
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1
+                        }
+                    ]
+                },
+                "guestRating": {
+                    "range": {
+                        "min": {
+                            "defaultValue": 0.0
+                        },
+                        "max": {
+                            "defaultValue": 10.0
+                        }
+                    }
+                },
+                "landmarks": {
+                    "selectedOrder": [
+                        332483.0
+                    ],
+                    "items": [
+                        {
+                            "label": "Центр города",
+                            "value": "332483",
+                            "applied": true
+                        },
+                        {
+                            "label": "Александерплац",
+                            "value": "37",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Стадион Mercedes-Benz Arena",
+                            "value": "1677828",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Kurfürstendamm",
+                            "value": "1774355"
+                        },
+                        {
+                            "label": "Центральный вокзал Берлина",
+                            "value": "1713120"
+                        },
+                        {
+                            "label": "Бранденбургские ворота",
+                            "value": "1638543"
+                        },
+                        {
+                            "label": "Конгресс-центр Messe Berlin",
+                            "value": "1726245",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Потсдамская площадь",
+                            "value": "1644509"
+                        },
+                        {
+                            "label": "Берлинский зоопарк",
+                            "value": "1659244"
+                        },
+                        {
+                            "label": "Олимпийский стадион",
+                            "value": "1659129",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Контрольный пункт \"Чарли\"",
+                            "value": "1763937"
+                        },
+                        {
+                            "label": "Шарите (клинический комплекс)",
+                            "value": "1727310"
+                        },
+                        {
+                            "label": "Фридрихштрассе",
+                            "value": "1701330"
+                        },
+                        {
+                            "label": "Хакешер Маркт",
+                            "value": "1713314",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Вальдбюне",
+                            "value": "1740364",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Конференц-центр Estrel",
+                            "value": "1729125",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Музейный остров",
+                            "value": "1677646"
+                        },
+                        {
+                            "label": "Жандармский рынок",
+                            "value": "1659267"
+                        },
+                        {
+                            "label": "Концертный зал Темподром",
+                            "value": "1713542"
+                        },
+                        {
+                            "label": "Концертный зал Columbiahalle",
+                            "value": "1713312",
+                            "disabled": true
+                        }
+                    ],
+                    "distance": [
+                        {
+                            "label": "1 км",
+                            "value": 1.0
+                        },
+                        {
+                            "label": "2 км",
+                            "value": 2.0,
+                            "applied": true
+                        },
+                        {
+                            "label": "3 км",
+                            "value": 3.0
+                        },
+                        {
+                            "label": "5 км",
+                            "value": 5.0
+                        },
+                        {
+                            "label": "10 км",
+                            "value": 10.0
+                        },
+                        {
+                            "label": "20 км",
+                            "value": 20.0
+                        },
+                        {
+                            "label": "40 км",
+                            "value": 40.0
+                        }
+                    ]
+                },
+                "neighbourhood": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Митте",
+                            "value": "1662710"
+                        },
+                        {
+                            "label": "Бульвар Унтер-ден-Линден",
+                            "value": "1713413",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Ораниенбургерштрассе",
+                            "value": "1713736",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Адлерсхоф",
+                            "value": "1691577",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Дипломатический квартал",
+                            "value": "1725595"
+                        },
+                        {
+                            "label": "Штеглиц",
+                            "value": "1691636",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Веддинг",
+                            "value": "1691641",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Шарлоттенбург",
+                            "value": "10871331"
+                        },
+                        {
+                            "label": "Кройцберг",
+                            "value": "1701328",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Friedrichshain (район)",
+                            "value": "1662709",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Prenzlauer Berg (район Берлина)",
+                            "value": "1662712",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Тегель",
+                            "value": "10979252",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Шпандау",
+                            "value": "1691634",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Шёнеберг",
+                            "value": "1713405"
+                        },
+                        {
+                            "label": "Тиргартен",
+                            "value": "1713049"
+                        },
+                        {
+                            "label": "Нойкёльн",
+                            "value": "1691615",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Шарлоттенбург-Вильмерсдорф",
+                            "value": "1701329"
+                        },
+                        {
+                            "label": "Кёпеникк",
+                            "value": "1691607",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Лихтенберг",
+                            "value": "1670488",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Фридрихсхайн-Кройцберг",
+                            "value": "10871402",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Моабит",
+                            "value": "10565091"
+                        },
+                        {
+                            "label": "Темпельхоф",
+                            "value": "1701327",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Wilmersdorf",
+                            "value": "1662711"
+                        },
+                        {
+                            "label": "Марцан-Хеллерсдорф",
+                            "value": "10565090",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Центр Западного Берлина",
+                            "value": "10871312"
+                        },
+                        {
+                            "label": "Гезундбрюннен",
+                            "value": "1713399",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Берлин-Бриц",
+                            "value": "11032851",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Груневальд",
+                            "value": "10992283",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Вайссензее",
+                            "value": "1713661",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Фриденау",
+                            "value": "1691594",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Халензе",
+                            "value": "11118557",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Мариендорф",
+                            "value": "1713403",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Лихтерфельде",
+                            "value": "1691610",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Шоневайде",
+                            "value": "1713406",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Марцан",
+                            "value": "1691613",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Темпельхоф-Шёнеберг",
+                            "value": "10788415"
+                        },
+                        {
+                            "label": "Далем",
+                            "value": "1713398",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Вестенд",
+                            "value": "1790209",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Хоэншёнхаузен",
+                            "value": "1691600",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Карлсхорст",
+                            "value": "1691602",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Нидершёнхаузен",
+                            "value": "1691616",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Зименсштадт",
+                            "value": "1691633",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Гросцитен",
+                            "value": "1713420",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Фридрихсфельде",
+                            "value": "1691595",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Буков",
+                            "value": "11118515",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Шмаргендорф",
+                            "value": "1691631",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Лихтенраде",
+                            "value": "1691609",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Альтглиникке",
+                            "value": "1691578",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Грюнау",
+                            "value": "1713401",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Йоханнисталь",
+                            "value": "11118935",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Руммельсбург",
+                            "value": "11118764",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Фенпфуль",
+                            "value": "11118306",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Ханзафиртель",
+                            "value": "11118936"
+                        },
+                        {
+                            "label": "Бонсдорф",
+                            "value": "1691582",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Нидершёневайде",
+                            "value": "11118513",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Вильхельмштадт",
+                            "value": "11118518",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Мальсдорф",
+                            "value": "1691612",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Вестфелишес-Фиртель",
+                            "value": "12462750"
+                        },
+                        {
+                            "label": "Плентервальд",
+                            "value": "11118342",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Sprengelkiez",
+                            "value": "12474361",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Викторияштадт",
+                            "value": "12464985",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Шиллеркиц",
+                            "value": "12462638",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Tegelort",
+                            "value": "12462748",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Spandau",
+                            "value": "12462752",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Бергманкиц",
+                            "value": "12466962",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Waltersdorf",
+                            "value": "12489853",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Prinzenviertel",
+                            "value": "12458059",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Brunnenviertel",
+                            "value": "12469748",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Глаймфиртель",
+                            "value": "12467458",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Конрадсхёэ",
+                            "value": "1691606",
+                            "disabled": true
+                        }
+                    ]
+                },
+                "accommodationType": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Апарт-отели",
+                            "value": "20"
+                        },
+                        {
+                            "label": "Виллы",
+                            "value": "14",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Гостевые дома",
+                            "value": "30"
+                        },
+                        {
+                            "label": "Дома для отпуска",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Квартиры ",
+                            "value": "15"
+                        },
+                        {
+                            "label": "Коттеджи",
+                            "value": "11",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Мини-отели",
+                            "value": "5",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Мотели",
+                            "value": "7",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Отели",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Пансионы",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Плавучие дома",
+                            "value": "16",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Хостелы",
+                            "value": "12"
+                        }
+                    ]
+                },
+                "facilities": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "В цену включен Wi-Fi",
+                            "value": "527"
+                        },
+                        {
+                            "label": "Для некурящих",
+                            "value": "529"
+                        },
+                        {
+                            "label": "Завтрак включен",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "Круглосуточная стойка регистрации",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "Парковка",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "Пункт зарядки электромобилей",
+                            "value": "1073743315"
+                        },
+                        {
+                            "label": "Разрешено проживание с домашними животными",
+                            "value": "64"
+                        },
+                        {
+                            "label": "С баром",
+                            "value": "515"
+                        },
+                        {
+                            "label": "С бассейном",
+                            "value": "128"
+                        },
+                        {
+                            "label": "С бизнес-услугами",
+                            "value": "519"
+                        },
+                        {
+                            "label": "С ванной в номере",
+                            "value": "517"
+                        },
+                        {
+                            "label": "С детскими кроватками",
+                            "value": "525"
+                        },
+                        {
+                            "label": "С доступом в интернет",
+                            "value": "8"
+                        },
+                        {
+                            "label": "С зонами для курения",
+                            "value": "537"
+                        },
+                        {
+                            "label": "С конференц-залами",
+                            "value": "1"
+                        },
+                        {
+                            "label": "С кухней",
+                            "value": "32"
+                        },
+                        {
+                            "label": "Со смежными номерами",
+                            "value": "523"
+                        },
+                        {
+                            "label": "Со спа-салоном",
+                            "value": "539"
+                        },
+                        {
+                            "label": "Со спортзалом",
+                            "value": "2"
+                        },
+                        {
+                            "label": "С присмотром за детьми",
+                            "value": "521"
+                        },
+                        {
+                            "label": "С рестораном",
+                            "value": "256"
+                        },
+                        {
+                            "label": "С трансфером до аэропорта",
+                            "value": "513"
+                        }
+                    ]
+                },
+                "accessibility": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Безбарьерный доступ",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "Безбарьерный душ",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "Ванная для маломобильных гостей",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "Номера для маломобильных гостей",
+                            "value": "541"
+                        },
+                        {
+                            "label": "Оборудование для слабослышащих",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "Парковка, приспособленная для маломобильных гостей",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "Тактильные указатели со шрифтом Брайля или рельефным шрифтом",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "Удобства в номерах для маломобильных гостей",
+                            "value": "1048576"
+                        }
+                    ]
+                },
+                "themesAndTypes": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Бутик",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Для активного отдыха",
+                            "value": "18"
+                        },
+                        {
+                            "label": "Для гольфа",
+                            "value": "26",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Для деловых людей",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Для семейного отдыха",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Класса «люкс»",
+                            "value": "15"
+                        },
+                        {
+                            "label": "На термальных источниках",
+                            "value": "22",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Обслуживание гостей ЛГБТК",
+                            "value": "21"
+                        },
+                        {
+                            "label": "Пляжные",
+                            "value": "6",
+                            "disabled": true
+                        },
+                        {
+                            "label": "Спа",
+                            "value": "27"
+                        }
+                    ]
+                },
+                "price": {
+                    "label": "Стоимость (общая)",
+                    "range": {
+                        "min": {
+                            "defaultValue": 0
+                        },
+                        "max": {
+                            "defaultValue": 25000
+                        },
+                        "increments": 250
+                    },
+                    "multiplier": 1
+                },
+                "welcomeRewards": {
+                    "label": "Hotels.com™ Rewards",
+                    "items": [
+                        {
+                            "label": "Получите штампы",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "Используйте бонусные* сутки",
+                            "value": "redeem"
+                        }
+                    ]
+                }
+            },
+            "pointOfSale": {
+                "currency": {
+                    "code": "RUB",
+                    "symbol": "RUB",
+                    "separators": ",.",
+                    "format": "{0} RUB"
+                }
+            },
+            "miscellaneous": {
+                "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=DISTANCE_FROM_LANDMARK&rooms=1&destRegionID=332483&hotelIds=414464,377867,350853,106207,313198,186595,109823,875702752,405368,224162,353942,1282762784,116495,163175,226979,172030,580085,199660,200674,336126,126942,1044809088,1021843744,1140220224,579039&adults=1&userAgent=Hotels.com/Android%2080.0.1.9.release-80_0%20(80000660)&userGuid=eaed2905-1b83-4dcb-a269-08f5a225b539&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&children=0&culture=ru_RU&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9864.0,10155.0,10185.0,10473.0,10320.0,10361.0&domain=ru.hotels.com&userIP=127.0.0.1&action=pageview&publisher=expedia&programId=1",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "Зачеркнутая цена основана на стандартном тарифе в нашем приложении, установленном и предоставленном объектом размещения."
+            },
+            "pageInfo": {
+                "pageType": "dateless"
+            }
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": " ,",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop33": "D=v33",
+                    "s.prop32": "D=v43",
+                    "s.prop74": "search result without dates | ms shown | N",
+                    "s.products": "LOCAL;5256909,LOCAL;4360170,LOCAL;2969757",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar41": "RUB",
+                    "s.eVar63": "e08ce38a-ac6e-442d-802b-b0d58247053a",
+                    "s.eVar42": "dateless",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "ru_RU|HCOM_RU|ru.hotels.com",
+                    "s.eVar2": "Берлин, Германия",
+                    "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+                    "s.eVar7": "",
+                    "s.server": "ru.hotels.com",
+                    "s.eVar6": "332483",
+                    "s.prop29": "D=v42",
+                    "s.prop27": "eaed2905-1b83-4dcb-a269-08f5a225b539",
+                    "s.eVar9": "Distance to other landmark near to far",
+                    "s.prop22": "Landmark - 332483",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "RUB",
+                    "s.eVar26": "US:TX:HOUSTON:618",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.prop9": "118",
+                    "s.eVar95": "Unknown",
+                    "s.prop7": "118",
+                    "s.eVar31": "D=v0",
+                    "s.eVar10": "Landmark - 332483",
+                    "s.eVar32": "D=v0",
+                    "s.eVar33": "search result without dates",
+                    "s.eVar34": "H1871:007.002,M376:000.000,M904:000.000,M1167:000.000,M1291:000.000,M1292:000.000,M1293:000.000,M1294:000.000,M3736:000.000,M4200:000.000,M4440.2,M4869:001.000,M4952:050.000,M4961:001.000,M5167.0,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7214:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7552:023.001,M7870:000.000,M8130:000.001,M8336:000.000,M8347:019.002,M8692:000.000,M8698:000.000,M8718:000.000,M8894:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9100:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9427:000.000,M9431:000.000,M9434:000.000,M9469:000.000,M9508:000.000,M9549:000.000,M9692:000.000,M9729:000.000,M9752:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10259:000.000,M10268:000.000,M10282:000.000,M10300:000.000,M10320:000.000,M10346:000.000,M10361:000.000,M10473:000.000,M9215:001.000",
+                    "s.eVar13": "389273",
+                    "s.events": "event324,event319,event320,event318",
+                    "s.prop18": "D=v6",
+                    "s.prop5": "389273",
+                    "s.prop15": "",
+                    "s.prop3": "Берлин, Германия",
+                    "s.prop14": "D=v7",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-west-2.unknown",
+                    "s.prop2": "Distance to other landmark near to far"
+                }
+            }
+        }
+    }
+}

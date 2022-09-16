@@ -1,0 +1,26 @@
+{
+    "term": "локомолоко",
+    "moresuggestions": 0,
+    "autoSuggestInstance": null,
+    "trackingID": "66bc4966152943808c93c089a2b7d35c",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": []
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": []
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": []
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": []
+        }
+    ],
+    "geocodeFallback": false
+}

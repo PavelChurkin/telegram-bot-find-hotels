@@ -1,0 +1,7 @@
+{
+    "result": "ERROR",
+    "error_message": "checkOut ISO date format not valid, must be 'yyyy-MM-dd'",
+    "error_keys": [
+        "VALIDATION_ERROR"
+    ]
+}
